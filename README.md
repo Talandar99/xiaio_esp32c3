@@ -1,5 +1,5 @@
 # xiaio_esp32c3_rust_template
-- This is template for projects created with xiaio_esp32c3 riscv mini development board
+- This is template for xiaio_esp32c3 riscv mini development board projects
 - It is based on this guide https://github.com/esp-rs/esp-idf-template/tree/master
 - This template include scripts for quality of life improvement
 ## Usefull links
